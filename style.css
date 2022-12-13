@@ -64,7 +64,7 @@ body{
 }
 
 #top-section p {
-  color: #98a6bd
+  color: #98a6bd;
 }
 
 button{
@@ -79,7 +79,7 @@ button{
 button:hover{
   cursor: pointer;
   background-color: #A9C42D;
-  transform: scale(1.02)
+  transform: scale(1.02);
 }
 
 #price {
